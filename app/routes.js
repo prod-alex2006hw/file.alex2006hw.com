@@ -10,7 +10,7 @@ exports.widget = function(req, res) {
 };
 
 exports.settings = function(req, res) {
-    res.render('settings', { });
+    res.render('settings', { debug: req.query.debug || false });
 };
 
 exports.vinePopular = function(req, res){

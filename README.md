@@ -1,4 +1,4 @@
-london-hackathon-vine-app
+FILEUPLOAD
 =========================
 
-Example Wix App for Workshop: Building a Wix App
+Fileupload widget
